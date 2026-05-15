@@ -26,7 +26,7 @@ Análisis exploratorio de datos de una empresa de telecomunicaciones latinoameri
 - **Google Colab**: Entorno de desarrollo
 
 ## 🚀 Cómo Ejecutar el Análisis
-1. Abre el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/tu-usuario/telecom-analysis/blob/main/ConnectaTel_Analysis.ipynb)
+1. Abre el notebook en Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]((https://colab.research.google.com/drive/187wda3sSjV_ViXbPTflhBbt5LlG_1dXJ?usp=sharing))
 2. Los datasets están incluidos en la carpeta `/data/`
 3. Ejecuta las celdas secuencialmente
 
